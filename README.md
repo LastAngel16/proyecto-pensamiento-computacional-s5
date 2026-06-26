@@ -35,7 +35,7 @@ Cuenta acá el relato de origen de tu proyecto. Ej, Alicia está con un conejo, 
 
 ### Storyboard
 
-![Boceto de los actos]([url-de-la-imagen](https://github.com/LastAngel16/proyecto-pensamiento-computacional-s5/blob/main/Boceto%20Actos.png?raw=true))
+<(https://github.com/LastAngel16/proyecto-pensamiento-computacional-s5/blob/main/Boceto%20Actos.png?raw=true)>
 
 ### Estados
 
