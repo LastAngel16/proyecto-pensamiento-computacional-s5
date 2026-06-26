@@ -34,7 +34,8 @@ Cuenta acá el relato de origen de tu proyecto. Ej, Alicia está con un conejo, 
 
 ### Storyboard
 
-Boceto Actos.png
+proyecto-pensamiento-computacional-s5
+/Boceto Actos.png
 
 ### Estados
 
