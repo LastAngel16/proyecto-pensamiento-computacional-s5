@@ -14,7 +14,7 @@ Jurassic park "Si algo nos a enseñado la historia de la evolucion no puede cont
 
 ### Imagen de referencia de proyecto
 
-
+![Portada del proyecto](./portada.png)
 
 ### Integrantes
 
@@ -31,12 +31,15 @@ Cuenta acá el relato de origen de tu proyecto. Ej, Alicia está con un conejo, 
 
 ### Storyboard
 
+![Boceto del proyecto](./bocetos-actos.png)
 proyecto-pensamiento-computacional-s5
 /Boceto Actos.png
 
 ### Estados
 
 Son 3 estados descritos en el codigo como Lab1, lab2 y lab3 junto a sus imagenes correspondientes
+
+la idea es hacer la evolucion de la vida desde dinosaurios hasta cocodrilos quienes se conocen por estar relacionados a estos
 
 #### Estado 1
 
@@ -116,6 +119,8 @@ function mouseWheel(event) {
   }
   return false; 
 }
+
+//Cabe destacar que croc se pre carga con sus propios pixeles independientes a diferencia de egg, Crack, dino y lizard ya que todos son 100x100 pero croc es 100x200
 //y por ultimo la funcion de reseteo para poder iniciar desde el principio
 function keyPressed() {
   
