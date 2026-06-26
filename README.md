@@ -10,15 +10,14 @@ Haz click  en README.md, luego en `raw` para ve código base de plantilla
 
 ### Título del proyecto
 
-Nombre de proyecto
-
+Jurassic Evolution
 ### Referencia de origen / bibliografía
 
-Haikú, poema, película, etc. Siempre nombrar autor y año.
+Jurassic park "Si algo nos a enseñado la historia de la evolucion no puede contenerse, la vida se libera y se extiende a nuevos territorios, peligrosa y dolorosamente la vida se abre camino
 
 ### Imagen de referencia de proyecto
 
-Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+
 
 ### Integrantes
 
