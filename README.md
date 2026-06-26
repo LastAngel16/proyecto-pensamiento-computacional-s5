@@ -1,1 +1,73 @@
-# Examen-
+# Clase 10
+
+## Plantilla examen
+
+Haz click  en README.md, luego en `raw` para ve código base de plantilla
+
+## Link de web pública (github pages)
+
+<[https://link.com>](https://github.com/LastAngel16/proyecto-pensamiento-computacional-s5/tree/main)>
+
+### Título del proyecto
+
+Nombre de proyecto
+
+### Referencia de origen / bibliografía
+
+Haikú, poema, película, etc. Siempre nombrar autor y año.
+
+### Imagen de referencia de proyecto
+
+Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+
+### Integrantes
+
+Roberto Silva E. [usuarioGithub]([https://github.com/usuarioGithub](https://github.com/LastAngel16))
+
+
+### Enlace de p5.js 
+
+<[https://editor.p5js.org>](https://editor.p5js.org/LastSamuel5/sketches/kjPJQdCHZ)>
+
+### Relato inicial
+
+Cuenta acá el relato de origen de tu proyecto. Ej, Alicia está con un conejo, luego va a un viaje psicodélico
+
+### Storyboard
+
+![Boceto de los actos]([url-de-la-imagen](https://github.com/LastAngel16/proyecto-pensamiento-computacional-s5/blob/main/Boceto%20Actos.png?raw=true))
+
+### Estados
+
+Son 3 estados descritos en el codigo como Lab1, lab2 y lab3 junto a sus imagenes correspondientes
+
+#### Estado 1
+
+En el primer estado, con alicia frente al conejo
+
+al hacer scroll, Alicia empieza a caer
+
+```js
+//alicia cae
+function aliciaEstatica(){
+  //tu alicia quieta acá
+  if (scroll) {
+    caer();
+  }
+}
+```
+
+
+#### Estado 2
+
+Alicia cayendo
+
+si pasan 5 segundos, alicia se detiene
+
+```js
+//alicia cae
+function aliciaCayendo(){
+  //tu alicia quieta acá
+  frameCount blablabla
+}
+```
